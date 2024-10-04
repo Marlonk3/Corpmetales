@@ -14,6 +14,7 @@
 .linkNav:link {
    text-decoration: none;
    color: var(--primarioColor);
+   transition: color 0.3s ease;
 }
 
 a:visited {
