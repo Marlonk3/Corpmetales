@@ -416,4 +416,7 @@ a:hover {
       font-size: x-large;
       margin: 10px;
    }
+   .linkNav:hover {
+      color: var(--primarioColor);
+   }
 }
